@@ -1,6 +1,6 @@
 # VM-CLI-Project
 
-This was my first project using Java 
+This was my first project using Java. 
 This is a vending machine CLI application that can accept money, display options, dispense items, read and write to a file, and dispense change
 Implemented unit testing
 
